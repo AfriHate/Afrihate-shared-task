@@ -1,5 +1,3 @@
----
-
 # AfriHate Shared Task Co-located with AfricaNLP 2025: Hate and Offensive Language Detection in African Languages
 
 ---
