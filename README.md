@@ -212,7 +212,7 @@ The following paper will be used for the dataset: [**AfriHate: A Multilingual Co
 
 - Join our Discord Channel to ask questions and receive updates (coming soon).
 - If you have any questions or issues, please feel free to create an issue.
-- Contact organizers at: afrihate-africanlp-2025-organizers[at]googlegroups[dot]com
+- Contact organizers at: afrihate-sharedtask-organizers[at]googlegroups[dot]com
 
 # FAQs
 <details>
@@ -303,7 +303,7 @@ The following paper will be used for the dataset: [**AfriHate: A Multilingual Co
 | Shamsuddeen Hassan Muhammad | Bayero University; MasaKhane                 | Ph.D. Candidate in NLP      |
 | Idris Abdulmumin            | Ahmadu Bello University; MasaKhane           | Ph.D. in NLP                |
 | David Ifeoluwa Adelani     | Masakhane;                       | Ph.D. in NLP                |
-| Ibrahim Sa’id Ahmad        | Bayero University; MasaKhane                  | Ph.D. in NLP                |
+| Ibrahim Said Ahmad        | Bayero University; MasaKhane                  | Ph.D. in NLP                |
 | Saminu Mohammad Aliyu      | Bayero University; MasaKhane                  | Ph.D. Candidate             |
 Tadesse Destaw Belay | IPN; EthioNLP | Ph.D. Candidate |
 | Abinew Ali Ayele           | Bahir Dar University; EthioNLP | Ph.D. Candidate             |
