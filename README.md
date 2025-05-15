@@ -69,13 +69,12 @@ Baseline models will be shared, and performance evaluated using accuracy, precis
 
 | Description                   | Deadline                                        |
 |-------------------------------|------------------------------------------------|
-| Sample Data Ready             | 15 April 2025                                  |
-| Training Data Ready           | 1 May 2025                                     |
-| Evaluation Start              | 15 May 2025                                    |
-| Evaluation End                | 31 May 2025                                    |
-| System Description Paper Due  | 15 June 2025                                   |
-| Notification to authors       | 30 June 2025                                   |
-| Camera ready due              | 15 July 2025                                   |
+| Training Data Ready           | 25 May 2025                                     |
+| Evaluation Start              | 15 June 2025                                    |
+| Evaluation End                | 30 June 2025                                    |
+| System Description Paper Due  | 07 July 2025                                   |
+| Notification to authors       | 14 July 2025                                   |
+| Camera ready due              | 20 July 2025                                   |
 | Workshop                      | 31 July 2025                                   |
 
 The task will be divided into three phases: Development, Evaluation, and Post-Evaluation.
